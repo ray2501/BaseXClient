@@ -11,7 +11,7 @@
     <PackageProjectUrl>http://www.basex.org/</PackageProjectUrl>
     <Description>C# Language Binding for BaseX, works with BaseX 7.0 and later.</Description>
     <Copyright>BaseX Team 2005-12, BSD License</Copyright>
-    <PackageTags>database xquery</PackageTags>
+    <PackageTags>basex database xpath xquery xml-database</PackageTags>
   </PropertyGroup>
 
 </Project>
