@@ -3,11 +3,11 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <PackageVersion>1.0.0</PackageVersion>
+    <PackageVersion>1.0.1</PackageVersion>
     <Title>C# Language Binding for BaseX</Title>
     <Authors>BaseX Team and Martín Ferrari</Authors>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
-    <PackageLicenseUrl>https://github.com/BaseXdb/basex/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageLicense>https://github.com/BaseXdb/basex/blob/master/LICENSE</PackageLicense>
     <PackageProjectUrl>http://www.basex.org/</PackageProjectUrl>
     <Description>C# Language Binding for BaseX, works with BaseX 7.0 and later.</Description>
     <Copyright>BaseX Team 2005-12, BSD License</Copyright>
